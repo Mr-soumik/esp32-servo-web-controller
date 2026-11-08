@@ -14,6 +14,8 @@ The ESP32 creates its **own password-protected WiFi network** and hosts a sleek 
 
 [▶ YouTube](https://www.youtube.com/@techtadka360official) · [📸 Instagram](https://www.instagram.com/techtadka360official) · [📘 Facebook](https://www.facebook.com/share/1EkKAJNLdB/)
 
+<img width="558" height="782" alt="Screenshot 2026-11-08 092650" src="https://github.com/user-attachments/assets/d0ef52e8-3ccc-46a0-9261-124629cfc3cb" />
+
 </div>
 
 ---
