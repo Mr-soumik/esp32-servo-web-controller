@@ -274,14 +274,6 @@ Contributions are welcome.
 
 ---
 
-## 🙏 Acknowledgements
-
-- Dashboard concept inspired by a servo-controller demo from [@electronicaavanzadapcm](https://www.instagram.com/electronicaavanzadapcm). This version is built differently: it runs as a web page hosted by the ESP32, so no mobile app is needed.
-- [ESP32Servo](https://github.com/madhephaestus/ESP32Servo) library.
-- The Arduino and ESP32 open-source community.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. You are free to use, modify and share it. See the `LICENSE` file for details.
